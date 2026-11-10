@@ -1,8 +1,5 @@
 ---
 title: "About"
-author: "阮垂玲（Annie）蔡孟君（Claire）黃宛琪"
-format: html
-editor: visual
 ---
 
 ## 阮垂玲（Annie）

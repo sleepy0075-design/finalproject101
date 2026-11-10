@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Major: International Business\nCountry: Viet Nam\nHobbies: Eating, Slepping, Music\nExperience: Very very basically level in programing like R, Python. But I’ll try my best.\nIG\n\n\n\nPhoto"
+  },
+  {
+    "objectID": "about.html#阮垂玲annie",
+    "href": "about.html#阮垂玲annie",
+    "title": "About",
+    "section": "",
+    "text": "Major: International Business\nCountry: Viet Nam\nHobbies: Eating, Slepping, Music\nExperience: Very very basically level in programing like R, Python. But I’ll try my best.\nIG\n\n\n\nPhoto"
+  },
+  {
+    "objectID": "about.html#蔡孟君claire",
+    "href": "about.html#蔡孟君claire",
+    "title": "About",
+    "section": "蔡孟君（Claire）",
+    "text": "蔡孟君（Claire）\n\nMajor: International Business\ncountry: Taiwan\nhobbies: reading, sleeping, singing, listening to songs.\nExperience: I took two R courses and one Python Course before.\nIG\n\n\n\nPhoto"
+  },
+  {
+    "objectID": "about.html#黃宛琪",
+    "href": "about.html#黃宛琪",
+    "title": "About",
+    "section": "黃宛琪",
+    "text": "黃宛琪\n\nMajor: Risk Management and Insurance\ncountry: Taiwan\nhobbies: painting\nIG\n\n\n\nphoto"
+  },
+  {
+    "objectID": "templateproject.html",
+    "href": "templateproject.html",
+    "title": "templateproject",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "templateproject.html#quarto",
+    "href": "templateproject.html#quarto",
+    "title": "templateproject",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  }
+]

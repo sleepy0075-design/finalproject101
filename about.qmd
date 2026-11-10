@@ -1,9 +1,52 @@
 ---
 title: "About"
+author: "阮垂玲（Annie）蔡孟君（Claire）黃宛琪"
+format: html
+editor: visual
 ---
 
-About this site
+## 阮垂玲（Annie）
 
-```{r}
-1 + 1
-```
+- Major: International Business
+
+- Country: Viet Nam
+
+- Hobbies: Eating, Slepping, Music
+
+- Experience: Very very basically level in programing like R, Python. But I'll try my best.
+
+- [IG](https://www.instagram.com/hnil_einna?stkn=bmZ3MnIxczI5eHA2&utm_source=qr)
+
+- 
+
+  ![Photo](Annie_%20photo.jpg)
+
+## 蔡孟君（Claire）
+
+- Major: International Business
+
+- country: Taiwan
+
+- hobbies: reading, sleeping, singing, listening to songs.
+
+- Experience: I took two R courses and one Python Course before.
+
+- [IG](https://www.instagram.com/clairetsai4926/)
+
+- 
+
+  ![Photo](my_photo.jpg)
+
+## 黃宛琪
+
+- Major: Risk Management and Insurance
+
+- country: Taiwan
+
+- hobbies: painting
+
+- [IG](https://www.instagram.com/exciled.wenshan_4years)
+
+- 
+
+  ![photo](3_photo.jpg)
